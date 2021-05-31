@@ -4,7 +4,7 @@ This is a simple library that contains a number of useful methods related to man
 
 ## Setup
 
-To add this library to your scrupt file, do the following in the Apps Script code editor:
+To add this library to your script file, do the following in the Apps Script code editor:
 
 1. Click on the menu item "Resources > Libraries..."
 2. In the "Add a Library" text box, enter the script ID `1fkCpUacOQJ369_NQrvokqJMHZ4hmOv9d2ziqeIyjmW26cXlhy87J7sC-` and click the "Add" button.
