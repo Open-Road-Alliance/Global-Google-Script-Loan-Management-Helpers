@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/New_York",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Helpers",
+        "libraryId": "1DsCgJGt-kX56V2cCf6_4Mj5oMDyzYETmqkdr-XsLvQHRfI8BEMBHFiT2",
+        "version": "0",
+        "developmentMode": true
+      }
+    ]
+  }
+}
